@@ -50,7 +50,7 @@
   "dependencies": {
     "bignumber.js": "debris/bignumber.js#94d7146671b9719e00a09c29b01a691bc85048c2",
     "bitcore-lib": "^0.13.13",
-    "bitcore-mnemonic": "^1.0.1",
+    "bitcore-mnemonic": "1.0.1",
     "crypto-js": "^3.1.5",
     "elliptic": "^3.1.0",
     "ethereumjs-tx": "^1.1.1",
